@@ -1,0 +1,39 @@
+_repo: The-Best-Short-Stories-of-1920and-the-Yearbook-of-the-American-Short-Story_22091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+description: ''
+gutenberg_issued: '2007-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+tableOfContents: The other woman / Sherwood Anderson -- Gargoyle / Edwina Stanton
+  Babcock -- Ghitza / Konrad Bercovici -- The life of five points / Edna Clare Bryner
+  -- The signal tower / Wadsroth Camp -- The parting genius / Helen Oale Crew -- Habakkuk
+  / Katharine Fullerton Gerould -- The judgment of Vulcan / Lee Foster Hartman --
+  The stick-in-the-muds / Rupert Hughes -- His job / Grace Sartwell Mason -- The rending
+  / James Oppenheim -- The dummy-chucker / Arthur Somers Roche -- Butterflies / Rose
+  Sidney -- The rotter / Fleta Campbel Springer -- Out of exile / Wilbur Daniel Steele
+  -- The three telegrams / Ethel Storm -- The Roman bath / John T. Wheelwright --
+  Amazement / Stephen French Whitman -- Sheener / Ben Ames Williams -- Turkey red
+  / Frances Gilchrist Wood.
+title: The Best Short Stories of 1920, and the Yearbook of the American Short Story
+url: http://www.gutenberg.org/ebooks/22091
